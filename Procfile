@@ -1,0 +1,1 @@
+web: gunicorn diabitic_app:app
